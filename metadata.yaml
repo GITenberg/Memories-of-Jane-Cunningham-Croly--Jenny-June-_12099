@@ -1,5 +1,5 @@
 _repo: Memories-of-Jane-Cunningham-Croly--Jenny-June-_12099
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Croly, J. C. (Jane Cunningham)
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1901
     gutenberg_agent_id: '40155'
     url: http://www.gutenberg.org/2009/agents/40155
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Woman's Press Club of New York City
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '40154'
     url: http://www.gutenberg.org/2009/agents/40154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12099#Memories-of-Jane-Cunningham-Croly--Jenny-June-
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
